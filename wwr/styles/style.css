@@ -25,6 +25,10 @@ nav a
 }
 main section{
     text-align: center;
+    
+}
+.home-grid
+{
     background-color:#c2c8c5;
 }
 #hero{
