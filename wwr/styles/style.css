@@ -4,7 +4,7 @@ body{
     margin: 0;
     padding: 0;
     max-width: 1600px;
-    font-size: 12px;
+    font-size: 22px;
 }
 nav a
 {
@@ -89,7 +89,7 @@ h4{
 .join:hover{
     color: white;
 }.msg {
-    background-color: #e82424;
+    background-color: #5224e8;
     line-height: 1.5em;
     padding: 35px;
   }
