@@ -28,6 +28,7 @@ main section{
 #hero{
     text-align: center;
     align-items: center;
+    background-color: #bdc2bf;
 }
 #logo_link
  { padding-top: 5px;}
