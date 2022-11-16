@@ -95,15 +95,15 @@ h4{
   }
 
 .msg h2{
-    color: aliceblue;
+    color: rgb(81, 25, 237);
     padding-bottom: 15px;
 }
 .msg p{
     color: rgb(139, 0, 0);
-    font-size: 8em;
+    font-size: 4em;
 }
 .rivers-card{
-    margin: 20px 0;  
+    margin: 200px 0;  
 }
  .camping-card{
     margin: 200px 0;
